@@ -1,0 +1,19 @@
+Steps involved to run the ShapeResume Project
+ 
+1.Open a Browser
+
+2.Paste this live URL
+https://shaperesume.000webhostapp.com/
+
+3. Choose a Template -->
+   Standard Resume
+   Cover letter
+   Modern Resume
+
+4. Edit the Resume as per Requirement
+
+5. Customize the template with various functionality as given in web page
+
+6. Save and print the resume.
+
+7. Thank You!
